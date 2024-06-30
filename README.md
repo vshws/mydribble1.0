@@ -88,4 +88,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 # mydribble1.0
 Interview Task for Simpplr
->>>>>>> 335a86a45cdc542bff4546fea9c92052b8111c17
