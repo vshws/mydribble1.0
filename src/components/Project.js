@@ -6,7 +6,7 @@ import { EyeIcon } from '@heroicons/react/solid'
 function Project({ name, team, likes, views }) {
   return (
     <div className='w-full h-[270px] rounded-xl mb-5 shadow-lg'>
-      <img src={img2} alt='' className='w-full h-2/3 object-cover rounded-t-xl'/>
+      <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/9d/27/b3/fb-img-1536833683869.jpg?w=1200&h=-1&s=1" alt='' className='w-full h-2/3 object-cover rounded-t-xl'/>
       <div className='p-3 flex justify-between'>
         <div className='flex items-center'>
           <h3 className='text-[15px] text-black font-bold'>{name}</h3>
