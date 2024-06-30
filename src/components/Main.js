@@ -11,7 +11,7 @@ function Main() {
          </p>
          <button className='bg-pink-500 px-[12px] py-[9px] text-[15px] font-bold text-white rounded-md hover:bg-pink-400'>Sign up</button>
        </div>
-
+    
     <div className='bg-black absolute opacity-70 w-full h-full'></div>
     <img className='w-full h-full object-cover' src={img1}></img>
     </div>
