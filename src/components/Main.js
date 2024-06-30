@@ -19,5 +19,3 @@ function Main() {
 }
 
 export default Main
- 26 changes: 26 additions & 0 deletions26  
-src/components/Menu.js
