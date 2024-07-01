@@ -18,7 +18,7 @@ function Navbar() {
             
          
             <div className='flex justify-between items-center w-full lg:w-auto mt-4 lg:mt-0'>
-                <div className='flex items-center w-full lg:w-[28%]'>
+                <div className='flex items-center w-full '>
                     <SearchIcon className="h-4 mr-2 " /> 
                     <h3 className='text-gray-600'>Sign in / Sign up</h3>
                 </div>
