@@ -8,7 +8,6 @@ function App() {
     <div className='App'>
       <Navbar/>
       <Main />
-      <Menu />
       <Projects />
     </div>
   );
