@@ -48,7 +48,7 @@ function Project({ name, team, likes, views, img }) {
         )}
       </div>
       </div>
-    </div>
+    
   );
 }
 
