@@ -29,7 +29,7 @@ function Project({ name, team, likes, views, img }) {
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >
-      <div className='relative w-full h-[200px] overflow-hidden rounded-t-xl'>
+      <div className='relative w-full h-[320px] overflow-hidden rounded-t-xl'>
         {/* Using an img tag to fill the div */}
         <img
           src={img}
