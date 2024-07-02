@@ -4,7 +4,7 @@ import img1 from '../img/img1.jpg';
 function Main() {
   return (
     <div className='relative h-[480px] w-full'>
-      <div className='mx-auto absolute z-20 flex flex-col items-start justify-center space-y-4 ml-12 text-white font-bold w-full h-full p-4'>
+      <div className='ml-[30px] mx-auto absolute z-20 flex flex-col items-start justify-center space-y-4 ml-12 text-white font-bold w-full h-full p-4'>
         <h2 className='text-5xl leading-tight'>
           Discover the world's top designers and creatives
         </h2>
