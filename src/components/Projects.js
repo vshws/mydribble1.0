@@ -11,7 +11,7 @@ const initialProjects = [
   { name: 'Project 6', team: 'Team F', likes: 22, views: '8.2k', img: 'https://images.pexels.com/photos/707344/pexels-photo-707344.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' },
   { name: 'Project 7', team: 'Team G', likes: 34, views: '12.7k', img: 'https://images.unsplash.com/photo-1618886487325-f665032b6352?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmF0dXJlJTIwaW1hZ2VzfGVufDB8fDB8fHww' },
   { name: 'Project 8', team: 'Team H', likes: 55, views: '20.5k', img: 'https://images.unsplash.com/photo-1618886487325-f665032b6352?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmF0dXJlJTIwaW1hZ2VzfGVufDB8fDB8fHww' },
-  { name: 'Project 9', team: 'Team I', likes: 47, views: '16.9k', img: 'https://images.unsplash.com/photo-1618886487325-f665032b6352?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmF0dXJlJTIwaW1hZ2VzfGVufDB8fDB8fHww' },
+  { name: 'Project 9', team: 'Team I', likes: 47, views: '16651665.9k', img: 'https://images.unsplash.com/photo-1618886487325-f665032b6352?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmF0dXJlJTIwaW1hZ2VzfGVufDB8fDB8fHww' },
 ];
 
 function Projects() {
